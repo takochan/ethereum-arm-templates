@@ -115,10 +115,7 @@
     },
     "dashboardDockerImage": {
       "defaultValue": "ethereumex/eth-stats-dashboard:latest",
-      "type": "string",
-      "allowedValues": [
-        "ethereumex/eth-stats-dashboard:latest"
-      ]
+      "type": "string"
     },
     "txNodeDockerImage": {
       "type": "string" 
